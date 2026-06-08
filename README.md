@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1253522307.svg)](https://doi.org/10.5281/zenodo.20592573)
+
 # Code for the secondary findings paper
 
 Code used in the *"Carrier frequencies of medically actionable pathogenic variants in Russian population"* scientific article (currently in review)
